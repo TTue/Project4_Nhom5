@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677669179667",
+    "firebase_url": "https://tinderproject4-aptech-default-rtdb.firebaseio.com",
+    "project_id": "tinderproject4-aptech",
+    "storage_bucket": "tinderproject4-aptech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677669179667:android:e64d0f3938b12b60d58ae6",
+        "android_client_info": {
+          "package_name": "com.example.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677669179667-fkb42nvph59ge2r5kmhde9qobjt25psv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project4",
+            "certificate_hash": "f33b9739fa4e9469409661175ca86d18cc820a93"
+          }
+        },
+        {
+          "client_id": "677669179667-57fu2er4hqjpf9uk129sb946oopetj9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIQZ9GReXgQYu9knlwTqVioS1QrpjFlos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677669179667-57fu2er4hqjpf9uk129sb946oopetj9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
